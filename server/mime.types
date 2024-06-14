@@ -1,0 +1,24 @@
+# Text Types
+text/plain           txt html htm shtml css js
+text/html           xhtml
+
+# Image Types
+image/gif           gif
+image/jpeg          jpeg jpg jpe pjp
+image/png           png
+image/x-icon        ico
+
+# Audio Types
+audio/mpeg          mpga mpeg mp3 wav
+
+# Video Types
+video/mpeg          mpg mpeg mpe mxf
+video/x-msvideo     avi
+video/quicktime      mov
+
+# Application Types
+application/pdf        pdf
+application/x-javascript  js
+application/x-shockwave-flash swf
+application/x-gzip          gz gzip
+application/x-tar           tar
